@@ -61,13 +61,6 @@ The repository contains the complete analytical workflow used to:
 
 ---
 
-### Additional Data
-
-* **`otter_prey_eDNA.csv`**
-  eDNA dataset containing potential prey taxa used to quantify prey diversity and investigate relationships between prey availability, otter activity and feeding behaviour.
-
----
-
 ## Processed Data
 
 These datasets are generated during the processing workflow and are provided to facilitate reproducibility without requiring users to rerun the complete filtering pipeline.
