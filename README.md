@@ -223,7 +223,7 @@ To reproduce all analyses:
 # Repository Structure
 
 ```text
-Data/
+Data Files/
 ├── Raw Data/
 │   ├── Cropton_v2_blast98_denoise.tsv
 │   ├── blank_association.csv
@@ -238,14 +238,14 @@ Data/
 │   ├── cropton_edna_proportions.csv
 │   └── combined_edna_camera_data.csv
 │
-├── Reference Database/
-│   ├── 12S_verts.fasta
-│   └── 12S_verts_tax_map.txt
+Reference Database/
+├── 12S_verts.fasta
+└── 12S_verts_tax_map.txt
 │
-└── R Scripts/
-    ├── cropton_initial.R
-    ├── overall_diversity.R
-    ├── Heatmaps and GAM.R
-    ├── cams_behaviour.R
-    └── detectability_models.R
+R Scripts/
+├── cropton_initial.R
+├── overall_diversity.R
+├── Heatmaps and GAM.R
+├── cams_behaviour.R
+└── detectability_models.R
 ```
