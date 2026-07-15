@@ -25,7 +25,7 @@ The repository contains the complete analytical workflow used to:
 
 ### eDNA
 
-* **`Cropton_v2_blast98_denoise.tsv`**
+* **`Cropton_blast98_denoise.tsv`**
   Raw denoised 12S metabarcoding read table containing taxonomic assignments for all samples.
 
 * **`blank_association.csv`**
