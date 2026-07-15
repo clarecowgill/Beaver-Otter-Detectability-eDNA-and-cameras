@@ -19,6 +19,14 @@ The repository contains the complete analytical workflow used to:
 
 ---
 
+## FAIR eDNA Metadata
+
+- **`12S_Cropton_FAIRe_checklist.xlsx`**
+
+  FAIR eDNA metadata record for the Cropton environmental DNA dataset, completed using the FAIR eDNA reporting standard. The checklist documents sample collection, laboratory protocols, bioinformatic processing, quality assurance and dataset provenance to facilitate transparency, reproducibility and long-term data reuse.
+
+---
+
 # 1. Data Files
 
 ## Raw Data
@@ -223,6 +231,8 @@ To reproduce all analyses:
 # Repository Structure
 
 ```text
+12S_Cropton_FAIRe_checklist.xlsx
+
 Data Files/
 ├── Raw Data/
 │   ├── Cropton_v2_blast98_denoise.tsv
@@ -241,7 +251,7 @@ Data Files/
 Reference Database/
 ├── 12S_verts.fasta
 └── 12S_verts_tax_map.txt
-│
+
 R Scripts/
 ├── cropton_initial.R
 ├── overall_diversity.R
